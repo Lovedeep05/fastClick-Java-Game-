@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="3d9fa6fc-0c6f-40ca-a9bf-e13fec43d219" name="Changes" comment="Who clicks faster game">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/MyFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyFrame.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
